@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Brian+Otieno+👋;Aspiring+Cybersecurity+Professional;Google+Cybersecurity+Certificate+%7C+In+Progress" alt="Typing SVG" />
 
-  <img src="https://github.com/user-attachments/assets/0f8c5f2e-8e3d-4f8a-9c5f-8e5f8d8f8f8f" width="800" alt="Cybersecurity Banner" /> <!-- Replace with your own banner later -->
 
   <h3>🔐 Securing Digital Frontiers | Ethical Hacker in Training | Turning Vulnerabilities into Strengths</h3>
 </div>
@@ -55,16 +54,6 @@ Splunk • Virtual Machines • Git • Cybersecurity Frameworks (NIST, CIA Tria
 - **[SIEM Simulation / Log Analysis](link)** — Basic detection rules and alert handling  
 - **[TryHackMe & HackTheBox Writeups](link)** — Documented walkthroughs and lessons learned  
 
-*(Update these as you complete more projects — even small ones look great!)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&bg_color=0D1117" alt="Streak" />
-</p>
 
 ---
 
@@ -73,7 +62,7 @@ Splunk • Virtual Machines • Git • Cybersecurity Frameworks (NIST, CIA Tria
 - **Email**: [tienobrian59@gmail.com](tienobrian59@gmail.com)
 
 - **X / Twitter**: [@atty_lurnk254](https://x.com/atty_lurnk254)
-- **Coursera Profile**: (Add link when available)
+  
 
 ---
 
