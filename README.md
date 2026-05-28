@@ -49,7 +49,7 @@ Splunk • Virtual Machines • Git • Cybersecurity Frameworks (NIST, CIA Tria
 
 ## 🔥 Featured Projects
 
-- **[Google Cybersecurity Labs](https://github.com/tienobrian59-lang/Google_cyber_labs)** — Course notes, scripts, and lab write-ups  
+- **[Google Cybersecurity Labs](https://github.com/tienobrian59-lang/Google_cyber_lab)** — Course notes, scripts, and lab write-ups  
 - **[Python Port Scanner](link)** — Custom network reconnaissance tool  
 - **[SIEM Simulation / Log Analysis](link)** — Basic detection rules and alert handling  
 - **[TryHackMe & HackTheBox Writeups](link)** — Documented walkthroughs and lessons learned  
