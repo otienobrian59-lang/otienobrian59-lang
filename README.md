@@ -49,7 +49,7 @@ Splunk • Virtual Machines • Git • Cybersecurity Frameworks (NIST, CIA Tria
 
 ## 🔥 Featured Projects
 
-- **[Google Cybersecurity Labs](https://github.com/otienobrian59-lang/Google_cyber_labs)** — Course notes, scripts, and lab write-ups  
+- **[Google Cybersecurity Labs](https://github.com/otienobrian59-lang/google-cyber-labs)** — Course notes, scripts, and lab write-ups  
 - **[Python Port Scanner](https://github.com/otienobrian59-lang/Python-Port-Scanner)** — Custom network reconnaissance tool  
 - **[SIEM Simulation / Log Analysis](https://github.com/otienobrian59-lang/SIEM-simulations)** — Basic detection rules and alert handling  
 - **[TryHackMe & HackTheBox Writeups](https://github.com/otienobrian59-lang/TryHackMe)** — Documented walkthroughs and lessons learned  
