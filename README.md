@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Brian+Otieno+👋;Aspiring+Cybersecurity+Professional;Google+Cybersecurity+Certificate+%7C+In+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Brian+Otieno+👋;Cybersecurity+%26+AI+Enthusiast;Self-Taught+Agentic+Workflow+Orchestration;Building+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
 
 
   <h3>🔐 Securing Digital Frontiers | Ethical Hacker in Training | Turning Vulnerabilities into Strengths</h3>
@@ -26,6 +26,8 @@ I'm currently enrolled in the **Google Cybersecurity Professional Certificate** 
 - Threat detection, incident response, and risk management  
 - Hands-on labs with industry-standard tools  
 
+I am also deeply passionate about **Artificial Intelligence**. As a self-taught enthusiast, I have been exploring **basic agentic workflow orchestration** to build smarter, more automated systems that bridge the gap between security and AI.
+
 My mission is to help organizations stay one step ahead of cyber threats while continuously sharpening my offensive and defensive security skills.
 
 ---
@@ -41,6 +43,10 @@ My mission is to help organizations stay one step ahead of cyber threats while c
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+**AI & Automation**
+![AI](https://img.shields.io/badge/AI-Passion-FF69B4?style=flat&logo=openai&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic-Orchestration-0078D4?style=flat&logo=githubactions&logoColor=white)
 
 **Monitoring & Others**  
 Splunk • Virtual Machines • Git • Cybersecurity Frameworks (NIST, CIA Triad)
