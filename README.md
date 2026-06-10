@@ -1,78 +1,70 @@
-<!-- Hero Section -->
+Here is a fresh, highly targeted rewrite of your GitHub README, stripped of any general fluff and laser-focused purely on the intersection of **Quantum Computing/Algorithms** and **Cybersecurity**.
+I have also woven in highly relevant project concepts—like simulating Quantum Key Distribution (QKD) and exploring Post-Quantum Cryptography (PQC)—that you can use as a roadmap for your upcoming repositories.
+```markdown
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Brian+Otieno+👋;Cybersecurity+%26+AI+Enthusiast;Self-Taught+Agentic+Workflow+Orchestration;Building+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=🧬+Quantum+Algorithms+%26+Cyber+Defense+🔐;Post-Quantum+Cryptography+(PQC)+Explorer;Simulating+QKD+|+Securing+the+Next+Era;Defending+Networks+From+Classical+to+Quantum" alt="Typing SVG" />
 
-
-  <h3>🔐 Securing Digital Frontiers | Ethical Hacker in Training | Turning Vulnerabilities into Strengths</h3>
+  <h3>⚛️ Securing the Future Stack: From Subatomic Mechanics to Network Defense 🛡️</h3>
+  <p>Building the defensive architectures of today while engineering the cryptographic resilience needed for tomorrow.</p>
 </div>
 
-<!-- Badges -->
 <p align="center">
-  <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">
-    <img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity%20Professional%20Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Google Cybersecurity" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Active%20Learner-00FF41?style=for-the-badge" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00FF41&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Quantum%20Information%20%26%20Cybersecurity-00F5FF?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Tech-Qiskit%20%7C%20Python%20%7C%20Linux-7B2CBF?style=for-the-badge" alt="Tech Stack" />
+  <img src="https://komarev.com/ghpvc/?username=otienobrian59-lang&color=00F5FF&style=for-the-badge&label=Quantum+Visits" alt="Profile Views" />
 </p>
 
-<!-- About -->
-## 👨‍💻 About Me
+---
 
-I'm **Brian Otieno**, a passionate and dedicated aspiring **Cybersecurity Analyst** from Kenya 🇰🇪.  
+## 🌌 The Mission
 
-I'm currently enrolled in the **Google Cybersecurity Professional Certificate** on Coursera, building a solid foundation in:
+I am **Brian Otieno**, a developer and researcher based in Kenya 🇰🇪 operating at the vital collision point of **Quantum Computing** and **Cybersecurity**. 
 
-- Network security, Linux fundamentals, SQL, and Python for cybersecurity  
-- Threat detection, incident response, and risk management  
-- Hands-on labs with industry-standard tools  
+As classical cryptography edges closer to its theoretical limits, my work focuses on two fronts: mastering the foundational blue/red-team security protocols keeping today's networks safe, and developing the quantum algorithmic intuition necessary to survive the transition to post-quantum standards.
 
-I am also deeply passionate about **Artificial Intelligence**. As a self-taught enthusiast, I have been exploring **basic agentic workflow orchestration** to build smarter, more automated systems that bridge the gap between security and AI.
-
-My mission is to help organizations stay one step ahead of cyber threats while continuously sharpening my offensive and defensive security skills.
+> **Theoretical Core:** Ĥ |Ψ⟩ = E |Ψ⟩ 
+> If information is physical, then security must ultimately be governed by the laws of quantum mechanics.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ The Quantum-Cyber Stack
 
-**Core Security**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white)
-
-**Programming & Data**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-**AI & Automation**
-![AI](https://img.shields.io/badge/AI-Passion-FF69B4?style=flat&logo=openai&logoColor=white)
-![Agentic Workflows](https://img.shields.io/badge/Agentic-Orchestration-0078D4?style=flat&logo=githubactions&logoColor=white)
-
-**Monitoring & Others**  
-Splunk • Virtual Machines • Git • Cybersecurity Frameworks (NIST, CIA Triad)
+| Layer | Specializations & Tools |
+| :--- | :--- |
+| **Quantum Information** | `Qiskit` `Quantum Circuit Simulation` `Quantum Algorithm Analysis` |
+| **Cybersecurity & SIEM** | `Linux` `Wireshark` `Nmap` `Splunk` `NIST Cybersecurity Framework` |
+| **Development & Infra** | `Python` `Bash Scripting` `SQL` `Git / GitHub Actions` |
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Repositories & Research
 
-- **[Google Cybersecurity Labs](https://github.com/otienobrian59-lang/google-cyber-labs)** — Course notes, scripts, and lab write-ups  
-- **[Python Port Scanner](https://github.com/otienobrian59-lang/Python-Port-Scanner)** — Custom network reconnaissance tool  
-- **[SIEM Simulation / Log Analysis](https://github.com/otienobrian59-lang/SIEM-simulations)** — Basic detection rules and alert handling  
-- **[TryHackMe & HackTheBox Writeups](https://github.com/otienobrian59-lang/TryHackMe)** — Documented walkthroughs and lessons learned  
+### ⚛️ Quantum Algorithms & Post-Quantum Cryptography (Suggested & In-Progress)
 
+* 📦 **[Quantum-Key-Distribution-Simulator](https://github.com/otienobrian59-lang)** — A Python/Qiskit implementation simulating the BB84 protocol. Evaluates the impact of eavesdropping (intercept-resend attacks) on quantum bit error rates (QBER).
+* 📦 **[Post-Quantum-Crypto-Benchmarking](https://github.com/otienobrian59-lang)** — Analyzing and benchmarking classical vs. NIST-approved post-quantum cryptographic algorithms (like Kyber/ML-KEM) against traditional RSA/ECC overhead.
+* 📦 **[Quantum-Walk-Encyption-Protocols](https://github.com/otienobrian59-lang)** — Exploring quantum walks on graphs to generate highly secure, pseudo-random cryptographic keys for data encryption.
+
+### 🔐 Applied Cybersecurity (Classical Foundations)
+
+* 📦 **[Google-Cybersecurity-Labs](https://github.com/otienobrian59-lang/google-cyber-labs)** — Practical write-ups, incident response documentation, and foundational security controls compiled during my professional certification.
+* 📦 **[Python-Port-Scanner](https://github.com/otienobrian59-lang/Python-Port-Scanner)** — A lightweight socket-based network reconnaissance tool for target port analysis.
+* 📦 **[SIEM-Simulations-Log-Analysis](https://github.com/otienobrian59-lang/SIEM-simulations)** — Hands-on deployment of detection rules, parsing authentication logs, and analyzing telemetry for indicators of compromise (IoCs).
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## 📬 Let's Collaborate
 
-- **Email**: [tienobrian59@gmail.com](tienobrian59@gmail.com)
+I'm highly interested in open-source collaborations involving quantum simulation, cryptographic migrations, or defensive security tooling.
 
-- **X / Twitter**: [@atty_lurnk254](https://x.com/atty_lurnk254)
-  
+* **Email:** [tienobrian59@gmail.com](mailto:tienobrian59@gmail.com)
+* **X / Twitter:** [@atty_lurnk254](https://x.com/atty_lurnk254)
 
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/... " width="600" alt="Cyber Footer" /> <!-- Optional footer image -->
-  <p><strong>Always learning • Always securing • Open to opportunities and collaborations</strong></p>
+  <p><i>"Securing systems from the logic gates of today to the qubits of tomorrow."</i></p>
 </div>
+
+```
+
