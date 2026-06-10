@@ -1,79 +1,80 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=🧬+Quantum+Algorithms+%26+Cyber+Defense+🔐;Post-Quantum+Cryptography+(PQC)+Explorer;Simulating+QKD+|+Securing+the+Next+Era;Defending+Networks+From+Classical+to+Quantum" alt="Typing SVG" />
+<!-- Chat-Style Animated Header -->
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=00F5FF&width=800&lines=%F0%9F%92%AC+Name%3A+Brian+Otieno" alt="Identity Vector" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=00F5FF&width=800&lines=%F0%9F%92%AC+Location%3A+Kenya+%F0%9F%87%B0%F0%9F%87%AE" alt="Location Vector" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=00F5FF&width=800&lines=%F0%9F%92%AC+Core%3A+Quantum+Materials+Scientist+%26+Advanced+System+Security+Analyst" alt="Field Vector" />
+</div>
 
-  <h3>⚛️ Securing the Future Stack: From Subatomic Mechanics to Network Defense 🛡️</h3>
-  <p>Building the defensive architectures of today while engineering the cryptographic resilience needed for tomorrow.</p>
+
+<div align="center">
+  <h3>🔬 Quantum Materials Researcher & Systems Security Developer</h3>
+  <p>Investigating multi-scale physical properties of matter while securing the classical systems that compute them.</p>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Quantum%20Information%20%26%20Cybersecurity-00F5FF?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Tech-Qiskit%20%7C%20Python%20%7C%20Linux-7B2CBF?style=for-the-badge" alt="Tech Stack" />
-  <img src="https://komarev.com/ghpvc/?username=otienobrian59-lang&color=00F5FF&style=for-the-badge&label=Quantum+Visits" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Research-Quantum%20Materials%20%26%20VQE-1E293B?style=flat-square" alt="Research Focus" />
+  <img src="https://img.shields.io/badge/Security-Blue%20Team%20%7C%20SIEM-334155?style=flat-square" alt="Security Domain" />
+  <img src="https://img.shields.io/badge/Status-Active%20Academic%20Growth-475569?style=flat-square" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=otienobrian59-lang&color=1E293B&style=flat-square&label=Registry+Accesses" alt="Profile Views" />
 </p>
 
 ---
 
-## 🌌 The Mission
+## 📑 Executive Summary
 
-I am **Brian Otieno**, a developer and researcher based in Kenya 🇰🇪 operating at the vital collision point of **Quantum Computing** and **Cybersecurity**. 
+I am **Brian Otieno**, a researcher and software architect based in Kenya 🇰🇪. My technical trajectory operates on a dual-engine model designed for long-term discovery and immediate ecosystem resilience:
 
-As classical cryptography edges closer to its theoretical limits, my work focuses on two fronts: mastering the foundational blue/red-team security protocols keeping today's networks safe, and developing the quantum algorithmic intuition necessary to survive the transition to post-quantum standards.
+* **The Ultimate Objective (Quantum Materials Science):** Uniting quantum information frameworks, advanced materials science, and hybrid classical-quantum architectures to model condensed matter systems and next-generation physical hardware.
+* **The Practical Foundation (Cybersecurity):** Maintaining active engineering depth within information security. Building skills in vulnerability analysis, SIEM instrumentation, and system hardening keeps my software robust, ensures modern research pipelines are protected, and sustains high institutional utility.
 
-> **Theoretical Core:** Ĥ |Ψ⟩ = E |Ψ⟩ 
-> If information is physical, then security must ultimately be governed by the laws of quantum mechanics.
-
----
-
-## 🛠️ The Quantum-Cyber Stack
-
-| Layer | Specializations & Tools |
-| :--- | :--- |
-| **Quantum Information** | `Qiskit` `Quantum Circuit Simulation` `Quantum Algorithm Analysis` |
-| **Cybersecurity & SIEM** | `Linux` `Wireshark` `Nmap` `Splunk` `NIST Cybersecurity Framework` |
-| **Development & Infra** | `Python` `Bash Scripting` `SQL` `Git / GitHub Actions` |
+> **Research Philosophy:** If computation is physical, the systems we build must be mastered at both the algorithmic layer and the subatomic material layer.
 
 ---
 
-## 🚀 Repositories & Research
+## 🔬 Computational Quantum & Materials Research
 
-### ⚛️ Quantum Algorithms & Post-Quantum Cryptography (Suggested & In-Progress)
+My work in quantum mechanics explores how variational algorithms, neural networks, and tensor frameworks can decode the behavior of strongly correlated systems and low-dimensional matter.
 
-* 📦 **[Quantum-Key-Distribution-Simulator](https://github.com/otienobrian59-lang)** — A Python/Qiskit implementation simulating the BB84 protocol. Evaluates the impact of eavesdropping (intercept-resend attacks) on quantum bit error rates (QBER).
-* 📦 **[Post-Quantum-Crypto-Benchmarking](https://github.com/otienobrian59-lang)** — Analyzing and benchmarking classical vs. NIST-approved post-quantum cryptographic algorithms (like Kyber/ML-KEM) against traditional RSA/ECC overhead.
-* 📦 **[Quantum-Walk-Encyption-Protocols](https://github.com/otienobrian59-lang)** — Exploring quantum walks on graphs to generate highly secure, pseudo-random cryptographic keys for data encryption.
-
-### 🔐 Applied Cybersecurity (Classical Foundations)
-
-* 📦 **[Google-Cybersecurity-Labs](https://github.com/otienobrian59-lang/google-cyber-labs)** — Practical write-ups, incident response documentation, and foundational security controls compiled during my professional certification.
-* 📦 **[Python-Port-Scanner](https://github.com/otienobrian59-lang/Python-Port-Scanner)** — A lightweight socket-based network reconnaissance tool for target port analysis.
-* 📦 **[SIEM-Simulations-Log-Analysis](https://github.com/otienobrian59-lang/SIEM-simulations)** — Hands-on deployment of detection rules, parsing authentication logs, and analyzing telemetry for indicators of compromise (IoCs).
+### Planned & Active Repositories
+* 📦 **[VQE-Battery-Electrolytes](https://github.com/otienobrian59-lang)** — A Variational Quantum Eigensolver (VQE) implementation focused on calculating the ground-state energies of novel molecular configurations for next-generation battery electrolytes.
+* 📦 **[Quantum-CNN-Lattice-Analysis](https://github.com/otienobrian59-lang)** — Designing Quantum Convolutional Neural Networks (QCNN) using phase-detection concepts to identify topological phases of matter in simulated crystal structures.
+* 📦 **[Superconducting-Qubit-Noise-Benchmarking](https://github.com/otienobrian59-lang)** — Evaluating zero-noise extrapolation (ZNE) and error mitigation mechanics across simulated NISQ-era quantum hardware.
+* 📦 **[Tensor-Network-LowDim-Simulations](https://github.com/otienobrian59-lang)** — Utilizing Matrix Product States (MPS) to simulate the ground state and excitation dynamics of low-dimensional, highly correlated electron materials.
 
 ---
 
-## 📬 Let's Collaborate
+## 🔐 Applied Systems Security (Classical Infrastructure)
 
-I'm highly interested in open-source collaborations involving quantum simulation, cryptographic migrations, or defensive security tooling.
+To build secure, production-grade research tools, I maintain a rigorous foundation in offensive and defensive security practices, formal frameworks, and telemetry auditing.
 
-* **Email:** [tienobrian59@gmail.com](mailto:tienobrian59@gmail.com)
-* **X / Twitter:** [@atty_lurnk254](https://x.com/atty_lurnk254)
+### Active Repositories
+* 📦 **[Google-Cybersecurity-Labs](https://github.com/otienobrian59-lang/google-cyber-labs)** — Core repository documenting hands-on laboratory exercises, defense frameworks (NIST, CIA Triad), and network analysis write-ups.
+* 📦 **[Python-Port-Scanner](https://github.com/otienobrian59-lang/Python-Port-Scanner)** — A clean, multi-threaded socket configuration for mapping host vulnerability baselines and active port reconnaissance.
+* 📦 **[SIEM-Simulations-Log-Analysis](https://github.com/otienobrian59-lang/SIEM-simulations)** — Ingesting, parsing, and defining custom detection logic for server logs to actively isolate indicators of compromise (IoCs).
+
+---
+
+## 🛠️ Technical Matrix
+
+[Quantum Stack]---------> Python ── Qiskit ── NumPy/SciPy ── Tensor Networks
+[Security Stack]-------> Linux ── Wireshark ── Nmap ── Splunk ── SIEM Triage
+[Automation Stack]-----> Bash Scripting ── Git ── GitHub CI/CD Actions
+
+
+---
+
+## 📬 Academic & Professional Vector
+
+I am actively looking to interface with academic advisors, principal investigators, open-source maintainers, and security teams working at the intersection of complex physical systems and hardened computing infrastructure.
+
+* **Institutional Contact:** [tienobrian59@gmail.com](mailto:tienobrian59@gmail.com)
+* **Research Updates / Thoughts:** [@atty_lurnk254](https://x.com/atty_lurnk254)
 
 ---
 
 <div align="center">
-  <p><i>"Securing systems from the logic gates of today to the qubits of tomorrow."</i></p>
+  <sub><i>"From the mathematical symmetries of the Hamiltonian $\hat{H}|\psi\rangle = E|\psi\rangle$ to the structural integrity of the application layer."</i></sub>
 </div>
 
-<!--
-**otienobrian59-lang/otienobrian59-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
