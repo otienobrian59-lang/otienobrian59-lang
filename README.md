@@ -62,7 +62,6 @@ I'm highly interested in open-source collaborations involving quantum simulation
 <div align="center">
   <p><i>"Securing systems from the logic gates of today to the qubits of tomorrow."</i></p>
 </div>
-## Hi there 👋
 
 <!--
 **otienobrian59-lang/otienobrian59-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
