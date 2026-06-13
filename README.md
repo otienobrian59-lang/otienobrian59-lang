@@ -1,30 +1,24 @@
-<!-- Chat-Style Animated Header -->
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=00F5FF&width=800&lines=%F0%9F%92%AC+Name%3A+Brian+Otieno" alt="Identity Vector" />
-  <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=00F5FF&width=800&lines=%F0%9F%92%AC+Location%3A+Kenya+%F0%9F%87%B0%F0%9F%87%AE" alt="Location Vector" />
-  <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=00F5FF&width=800&lines=%F0%9F%92%AC+Core%3A+Quantum+Materials+Scientist+%26+Advanced+System+Security+Analyst" alt="Field Vector" />
-</div>
-
-
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Brian+Otieno+%F0%9F%91%8B;Quantum+Materials+Researcher;Systems+Security+Developer" alt="Typing SVG" />
+
   <h3>🔬 Quantum Materials Researcher & Systems Security Developer</h3>
   <p>Investigating multi-scale physical properties of matter while securing the classical systems that compute them.</p>
-</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Research-Quantum%20Materials%20%26%20VQE-1E293B?style=flat-square" alt="Research Focus" />
-  <img src="https://img.shields.io/badge/Security-Blue%20Team%20%7C%20SIEM-334155?style=flat-square" alt="Security Domain" />
-  <img src="https://img.shields.io/badge/Status-Active%20Academic%20Growth-475569?style=flat-square" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=otienobrian59-lang&color=1E293B&style=flat-square&label=Registry+Accesses" alt="Profile Views" />
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/Research-Quantum%20Materials%20%26%20VQE-1E293B?style=flat-square" alt="Research Focus" />
+    <img src="https://img.shields.io/badge/Security-Blue%20Team%20%7C%20SIEM-334155?style=flat-square" alt="Security Domain" />
+    <img src="https://img.shields.io/badge/Status-Active%20Academic%20Growth-475569?style=flat-square" alt="Status" />
+    <img src="https://komarev.com/ghpvc/?username=otienobrian59-lang&color=1E293B&style=flat-square&label=Registry+Accesses" alt="Profile Views" />
+  </p>
+</div>
 
 ---
 
 ## 📑 Executive Summary
 
-I am **Brian Otieno**, a researcher and software architect based in Kenya 🇰🇪. My technical trajectory operates on a dual-engine model designed for long-term discovery and immediate ecosystem resilience:
+Welcome to my digital workspace! 🚀
+
+I am **Brian Otieno**, a dedicated researcher and software architect based in Kenya 🇰🇪. My technical trajectory operates on a dual-engine model designed for long-term discovery and immediate ecosystem resilience:
 
 * **The Ultimate Objective (Quantum Materials Science):** Uniting quantum information frameworks, advanced materials science, and hybrid classical-quantum architectures to model condensed matter systems and next-generation physical hardware.
 * **The Practical Foundation (Cybersecurity):** Maintaining active engineering depth within information security. Building skills in vulnerability analysis, SIEM instrumentation, and system hardening keeps my software robust, ensures modern research pipelines are protected, and sustains high institutional utility.
